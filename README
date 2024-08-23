@@ -1,0 +1,11 @@
+La app no la pude testear ya que me da error con la base de datos, tanto como en prisma. como en posgresql  , tengo problema con los puetos y mi configuracion de scripts,  
+
+https://chatgpt.com/share/64f6531d-1502-46b0-ab9c-4fef7e72bff8 aca el enlace con la IA , consultas para los erroes que menciono..! 
+
+ultimo error  NO solucionado   {{{{ Console code page (850) differs from Windows code page (1252)
+         8-bit characters might not work correctly. See psql reference
+         page "Notes for Windows users" for details.}}} esto es con posgreSql ..
+
+                                con Prisma lo mismo Un error de Script y otro de coneccion ...
+
+                                 
